@@ -1,4 +1,4 @@
-package tis.register.static;
+package tis.register.rstatic;
 
 import tis.register.Register;
 
