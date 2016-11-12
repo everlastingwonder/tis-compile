@@ -1,4 +1,4 @@
-package tis.register;
+package tis.register.property;
 
 public interface Referential {
   
