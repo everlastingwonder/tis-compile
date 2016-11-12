@@ -1,5 +1,8 @@
 package tis.register.directional;
 
-public class Down extends tis.register.Register implements tis.register.Referential {
+import tis.register.Register;
+import tis.register.Referential;
+
+public class Down extends Register implements Referential {
   
 }
