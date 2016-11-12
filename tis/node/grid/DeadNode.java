@@ -1,6 +1,6 @@
 package tis.node.grid;
 
-import tis.node.*;
+import tis.node.Node;
 
 public class DeadNode extends Node {
 	
