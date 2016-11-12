@@ -1,5 +1,7 @@
-package tis.node.grid
+package tis.node.grid;
 
-public class StandardNode {
+import tis.node.*;
 
+public class StandardNode extends Node {
+	
 }
